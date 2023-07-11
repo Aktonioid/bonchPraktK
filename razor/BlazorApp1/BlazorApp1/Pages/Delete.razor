@@ -1,6 +1,28 @@
 ﻿@page "/delete"
-<h3>Delete</h3>
 
-@code {
+@using System.Net.Http
+@using System.Net.Http.Json
+@using System.Threading.Tasks
+<h3>Delete</h3>
+<form asp-page-handler="OnDelete">
+    <label >Code</label><br>
+    <input type="text" name="code" @bind="_code"><br>
+    <br>
+    <button type="submit" onclick="@OnDelete">send</button>
+</form>
+@code
+{
+    string _code = "ебать";
+
+    HttpClient client = new();
+
+    public async Task OnDelete()
+    {
+        Console.WriteLine(_code);
+       
+        
+        using var response = await client.DeleteAsync($"https://localhost:8001/api/GeoObjectType/{_code}");
+    }
+
 
 }

@@ -2,6 +2,7 @@
 {
     public class GeoObjectType
     {
+        public string Id { get; set; } = String.Empty;
         public string Code { get; set; } = String.Empty;
         public string NameInEnglish { get; set; } = String.Empty;
         public string NameInRussian { get; set; } = String.Empty;

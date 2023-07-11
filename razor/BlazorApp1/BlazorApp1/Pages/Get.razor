@@ -31,10 +31,10 @@
 
 @if (geoObjectTypeDtos != null)
 {
-    <select class="select-css" @bind="_value">
-        <option value="A">A - Объекты политической и экономической географии </option>
-        <option value="H">H - Гидрография </option>
-        <option value="L">L - Парки,районы </option>
+    <select class="select-css" @bind="_value" >
+        <option value="A" onchange="@OnParametersSetAsync()">A - Объекты политической и экономической географии </option>
+        <option value="H" >H - Гидрография </option>
+        <option value="L" >L - Парки,районы </option>
         <option value="P">P - Город, деревня </option>
         <option value="R">R - Автомобильная дорога, железная дорога </option>
         <option value="S">S - Местоположение, здание, ферма </option>
@@ -135,7 +135,7 @@
     private bool fulfil = false;
     protected override async Task OnParametersSetAsync()
     {
-        Console.WriteLine("Parametr changed");
+        
         geoObjectTypeDtos =  new List<GeoObjectType> (await Http.GetFromJsonAsync<IEnumerable<GeoObjectType>>
             ("https://localhost:8001/api/GeoObjectType"));
         fulfil = true;
@@ -145,7 +145,8 @@
     {
         geoObjectTypeDtos = new List<GeoObjectType>(await Http.GetFromJsonAsync<IEnumerable<GeoObjectType>>
             ("https://localhost:8001/api/GeoObjectType"));
-        Console.WriteLine("hui");
+        //Console.WriteLine("hui");
+        
         fulfil = true;
     }
 }
