@@ -1,0 +1,279 @@
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\appsettings.json
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.exe
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.deps.json
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.runtimeconfig.json
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.pdb
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.csproj.AssemblyReference.cache
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.AssemblyInfoInputs.cache
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.AssemblyInfo.cs
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\scopedcss\bundle\WebAPI_6_01.API.styles.css
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.csproj.CopyComplete
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\refint\WebAPI_6_01.API.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.pdb
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.genruntimeconfig.cache
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\ref\WebAPI_6_01.API.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.pdb
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\appsettings.json
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.exe
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.deps.json
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.runtimeconfig.json
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.pdb
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.pdb
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.csproj.AssemblyReference.cache
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.AssemblyInfoInputs.cache
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.AssemblyInfo.cs
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.csproj.CoreCompileInputs.cache
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\scopedcss\bundle\WebAPI_6_01.API.styles.css
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.csproj.CopyComplete
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\refint\WebAPI_6_01.API.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.pdb
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.genruntimeconfig.cache
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\ref\WebAPI_6_01.API.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\appsettings.Development.json
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\appsettings.json
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.exe
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.deps.json
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.runtimeconfig.json
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.pdb
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Humanizer.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.Domain.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.Domain.pdb
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.pdb
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.csproj.AssemblyReference.cache
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.AssemblyInfoInputs.cache
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.AssemblyInfo.cs
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.csproj.CoreCompileInputs.cache
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.MvcApplicationPartsAssemblyInfo.cs
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.MvcApplicationPartsAssemblyInfo.cache
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets.build.json
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets.development.json
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\scopedcss\bundle\WebAPI_6_01.API.styles.css
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.csproj.CopyComplete
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\refint\WebAPI_6_01.API.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.pdb
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.genruntimeconfig.cache
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\ref\WebAPI_6_01.API.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI_6_01.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI_6_01.API.props
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI_6_01.API.props
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI_6_01.API.props
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\appsettings.json
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.exe
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.deps.json
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.runtimeconfig.json
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.API.pdb
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Humanizer.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.pdb
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.csproj.AssemblyReference.cache
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.AssemblyInfoInputs.cache
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.AssemblyInfo.cs
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.csproj.CoreCompileInputs.cache
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI_6_01.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI_6_01.API.props
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI_6_01.API.props
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI_6_01.API.props
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\scopedcss\bundle\WebAPI_6_01.API.styles.css
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.csproj.CopyComplete
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\refint\WebAPI_6_01.API.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.pdb
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\WebAPI_6_01.API.genruntimeconfig.cache
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01\obj\Debug\net6.0\ref\WebAPI_6_01.API.dll

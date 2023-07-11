@@ -1,0 +1,68 @@
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.deps.json
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.pdb
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.AssemblyInfo.cs
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.csproj.CopyComplete
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\refint\WebAPI_6_01.Infrastructure.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.pdb
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\ref\WebAPI_6_01.Infrastructure.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.runtimeconfig.json
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.genruntimeconfig.cache
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.deps.json
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.runtimeconfig.json
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.pdb
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Domain.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Domain.pdb
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.csproj.AssemblyReference.cache
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.AssemblyInfoInputs.cache
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.AssemblyInfo.cs
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.csproj.CoreCompileInputs.cache
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.csproj.CopyComplete
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\refint\WebAPI_6_01.Infrastructure.dll
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.pdb
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.genruntimeconfig.cache
+E:\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\ref\WebAPI_6_01.Infrastructure.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.deps.json
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.runtimeconfig.json
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.pdb
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.AssemblyInfo.cs
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.csproj.CopyComplete
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\refint\WebAPI_6_01.Infrastructure.dll
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.pdb
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.genruntimeconfig.cache
+C:\Users\SA\YandexDisk\Компьютер DESKTOP-5MRSPQG\Документы\ВКР 2023\Бакалавры\Зыков Александр Дмитриевич\Код\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\ref\WebAPI_6_01.Infrastructure.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.deps.json
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.runtimeconfig.json
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Infrastructure.pdb
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01.Infrastructure\bin\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.AssemblyInfo.cs
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.csproj.CopyComplete
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\refint\WebAPI_6_01.Infrastructure.dll
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.pdb
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\WebAPI_6_01.Infrastructure.genruntimeconfig.cache
+C:\Users\1dang\Desktop\WebAPI_6_01\WebAPI_6_01.Infrastructure\obj\Debug\net6.0\ref\WebAPI_6_01.Infrastructure.dll
