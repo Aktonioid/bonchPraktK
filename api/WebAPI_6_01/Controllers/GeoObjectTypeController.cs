@@ -29,7 +29,12 @@ namespace WebAPI01.API.Controllers
         public async Task<ActionResult<IEnumerable<GeoObjectTypeDto>>> GetAll()
         {
             var geoObjectTypes = await _geoObjectTypeRepository.GetAllAsync();
+            foreach(var item in geoObjectTypes)
+            {
+                System.Console.WriteLine("GeoSection: "+item.TypeSectionCode);
+            }
             var dtos = GeoObjectTypeDtoMapper.ToDto(geoObjectTypes);
+            
             return dtos;
         }
 
@@ -62,7 +67,7 @@ namespace WebAPI01.API.Controllers
         // PUT: api/GeoObjectType/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{code}")]
-        public async Task<IActionResult> PutGeoObjectTypen(string code, GeoObjectTypeDto geoObjectTypeDto)
+        public async Task<IActionResult> PutGeoObjectTypen(string code, [FromBody]GeoObjectTypeDto geoObjectTypeDto)
         {
             if (code != geoObjectTypeDto.Code)
             {
@@ -80,6 +85,7 @@ namespace WebAPI01.API.Controllers
         [HttpPost]
         public async Task<ActionResult<GeoObjectTypeDto>> PostGeoObjectType([FromBody]GeoObjectTypeDto geoObjectTypeDto)
         {
+            Console.WriteLine(geoObjectTypeDto.TypeSectionCode);
             geoObjectTypeDto.Id = Guid.NewGuid().ToString();
             var geoObjectType = GeoObjectTypeDtoMapper.ToEntity(geoObjectTypeDto);
             await _geoObjectTypeRepository.AddAsync(geoObjectType);

@@ -15,7 +15,7 @@ namespace WebAPI_6_01.API.DTO
 
             foreach(var geoObjectType in typeSection.GeoObjectTypes)
             {
-                typeSectionDto.GeoObjectTypeDtos.Add(GeoObjectTypeDtoMapper.ToDto(geoObjectType));
+                typeSectionDto.GeoObjectTypes.Add(GeoObjectTypeDtoMapper.ToDto(geoObjectType));
             }
 
             return typeSectionDto;
@@ -31,7 +31,7 @@ namespace WebAPI_6_01.API.DTO
                 NameInRussian = typeSectionDto.NameInRussian
             };
 
-            foreach(var geoObjectTypeDto in typeSectionDto.GeoObjectTypeDtos)
+            foreach(var geoObjectTypeDto in typeSectionDto.GeoObjectTypes)
             {
                 typeSection.GeoObjectTypes.Add(GeoObjectTypeDtoMapper.ToEntity(geoObjectTypeDto));
             }

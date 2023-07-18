@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -32,32 +33,48 @@ namespace WebAPI_6_01.API.Controllers
         {
             var typeSections = await _geoObjectTypeRepository.GetAllTypeSectionsAsync();
             var dtos = TypeSectionDtoMapper.ToDto(typeSections);
+            
+            foreach (var item in dtos)
+            {
+                var code = item.Code;
+                var list = await _geoObjectTypeRepository.GetByTypeSectionCodeAsync(code);
+                item.GeoObjectTypes = list.Select(GeoObject => GeoObjectTypeDtoMapper.ToDto(GeoObject)).ToList();
+            }
+            
+
             return dtos;
         }
 
         // GET api/<TypeSectionController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
+        [HttpGet("{code}")]
+        public async Task<TypeSectionDto> Get(string code)
         {
-            return "value";
+            var typeSection = await _geoObjectTypeRepository.GetTypeSectionByCodeAsync(code);
+            typeSection.GeoObjectTypes = await _geoObjectTypeRepository.GetByTypeSectionCodeAsync(code);
+            return TypeSectionDtoMapper.ToDto(typeSection);
         }
 
         // POST api/<TypeSectionController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public async Task Post([FromBody] TypeSectionDto typeSectionDto)
         {
+            var typeSection = TypeSectionDtoMapper.ToEntity(typeSectionDto);
+            await _geoObjectTypeRepository.AddTypeSectionAsync(typeSection);
         }
 
         // PUT api/<TypeSectionController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpPut("{code}")]
+        public async Task Put(string code, [FromBody] TypeSectionDto typeSectionDto)
         {
+            var typeSection = TypeSectionDtoMapper.ToEntity(typeSectionDto);
+            await _geoObjectTypeRepository.UpdateTypeSectionAsync(typeSection);
         }
 
         // DELETE api/<TypeSectionController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
+        [HttpDelete("{code}")]
+        public async Task Delete(string code)
         {
+            await _geoObjectTypeRepository.DeleteTypeSectionByCodeAsync(code);
         }
     }
 }

@@ -53,10 +53,10 @@ namespace WebAPI_6_01.Infrastructure
             await _context.SaveChangesAsync();
         }
 
-        public async Task DeleteByIdAsync(string id)
+        public async Task DeleteTypeSectionByCodeAsync(string id)
         {
-            GeoObjectType geoObjectType = await _context.GeoObjectTypes.FindAsync(id);
-            _context.Remove(geoObjectType);
+            TypeSection typeSection = await _context.TypeSections.FindAsync(id);
+            _context.Remove(typeSection);
             await _context.SaveChangesAsync();
         }
         public async Task AddTypeSectionAsync(TypeSection typeSection)
@@ -68,6 +68,17 @@ namespace WebAPI_6_01.Infrastructure
         public async Task<List<TypeSection>> GetAllTypeSectionsAsync()
         {
             return await _context.TypeSections.OrderBy(ts => ts.Code).ToListAsync();
+        }
+        public async Task<TypeSection> GetTypeSectionByCodeAsync(string code)
+        {
+            return await _context.TypeSections.FindAsync(code);
+        }
+
+        public async Task UpdateTypeSectionAsync(TypeSection typeSection)
+        {
+            var existTypeSection = await _context.TypeSections.FindAsync(typeSection.Code);
+            _context.Entry(existTypeSection).CurrentValues.SetValues(typeSection);
+            await _context.SaveChangesAsync();
         }
 
         public void ChangeTrackerClear()
