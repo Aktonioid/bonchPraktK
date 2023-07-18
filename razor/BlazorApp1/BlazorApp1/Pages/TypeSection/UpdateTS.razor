@@ -1,0 +1,103 @@
+﻿@page "/TSUpdate"
+
+<h3>UpdateTypeSection</h3>
+
+@using System.Net.Http
+@using System.Net.Http.Json
+@using System.Threading.Tasks
+<h3>Put</h3>
+
+<form asp-page-handler="OnPost">
+    <label>Code</label><br>
+    <input type="text" name="code" @bind="_code"><br>
+
+    <label>Eng name</label><br>
+    <input type="text" name="nameEng" @bind="_nameEng"><br>
+
+    <label>Rus name</label><br>
+    <input type="text" name="nameRus" @bind="_nameRus"><br>
+
+    <button class="btn" type="submit" onclick="@OnPut">Send</button>
+</form>
+
+@if (geoObjectTypeDtos != null)
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Код объекта</th>
+                <th>Name</th>
+                <th>Название</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var geoObjectType in geoObjectTypeDtos)
+            {
+
+                string jopa = "";
+                if (geoObjectType.Code != _value && _value != "0") continue;
+                <tr>
+                    @if (_value == "0")
+                    {
+                        <td>@geoObjectType.Code</td>
+                    }
+                    <td>@geoObjectType.Code</td>
+                    <td>@geoObjectType.NameInEnglish</td>
+                    <td>@geoObjectType.NameInRussian</td>
+                    <td><form><button type="submit" @onclick="(() => shit(geoObjectType))">update</button></form></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code
+{
+    TypeSection gto = null;
+    string _got = "";
+    string _value = "0";
+    string _code = "";
+    string _nameEng = "";
+    string _nameRus = "";
+
+    List<TypeSection> geoObjectTypeDtos = new();
+
+    HttpClient client = new();
+
+
+    protected override async Task OnInitializedAsync()
+    {
+
+        geoObjectTypeDtos = new List<TypeSection>(await client.GetFromJsonAsync<IEnumerable<TypeSection>>
+            ($"https://localhost:8001/api/TypeSection"));
+        if (GeoUpdate.tsUpdateCode != "" && GeoUpdate.tsUpdateCode != null)
+        {
+            foreach (var item in geoObjectTypeDtos)
+            {
+                if (GeoUpdate.tsUpdateCode == item.Code)
+                {
+                    _code = item.Code;
+                    _nameEng = item.NameInEnglish;
+                    _nameRus = item.NameInRussian;
+                }
+            }
+        }
+    }
+
+    public async Task OnPut()
+    {
+
+        TypeSection typeSection = new TypeSection()
+            {
+                Code = _code,
+                NameInEnglish = _nameEng,
+                NameInRussian = _nameRus
+            };
+        client.PutAsJsonAsync<TypeSection>($"https://localhost:8001/api/TypeSection/{typeSection.Code}", typeSection);
+    }
+
+    protected void shit(TypeSection got)
+    {
+        GeoUpdate.tsUpdateCode = got.Code;
+    }
+}

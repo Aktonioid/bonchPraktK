@@ -1,0 +1,65 @@
+﻿@page "/GeoObjectGetByCode"
+<PageTitle>Get</PageTitle>
+
+<h3>Get_code_</h3>
+
+@using System.Net.Http
+@using System.Net.Http.Json
+@using System.Threading.Tasks
+
+<PageTitle>Get (code)</PageTitle>
+
+<div class="row">
+    <div class="col text-center">
+        <h1>GeoNames</h1>
+    </div>
+</div>
+
+
+    <form asp-page-handler="OnPost">
+        <label>Code</label><br>
+        <input type="text" name="code" @bind="_value"><br>
+        <br>
+        <button class="btn" type="button" onclick="@OnGet">Submit</button>
+    </form>
+    <br >
+    <table>
+        <thead>
+            <tr>
+                <th>Код раздела</th>
+                @*<th>Код объекта</th>*@
+                <th>Name</th>
+                <th>Название</th>
+                <th>Type</th>
+                <th>Тип</th>
+            </tr>
+        </thead>
+    @if (geoObjectTypeDtos != null)
+    {
+        <tbody>
+                <tr>
+                    <td>@geoObjectTypeDtos.TypeSectionCode</td>
+                    @*<td>@geoObjectTypeDtos.Code</td>*@
+                    <td>@geoObjectTypeDtos.NameInEnglish</td>
+                    <td>@geoObjectTypeDtos.NameInRussian</td>
+                    <td>@geoObjectTypeDtos.DescriptionInEnglish</td>
+                    <td>@geoObjectTypeDtos.DescriptionInRussian</td>
+                </tr>
+        </tbody>
+    }
+    </table>
+
+
+@code
+{
+    string _value="";
+    private GeoObjectType geoObjectTypeDtos = null!;
+    public string MessageAdd { get; set; } = String.Empty;
+    HttpClient Http = new();
+    protected async Task OnGet()
+    {
+        Console.WriteLine(_value);
+        geoObjectTypeDtos = await Http.GetFromJsonAsync<GeoObjectType>
+            ($"https://localhost:8001/api/GeoObjectType/{_value}");
+    }
+}

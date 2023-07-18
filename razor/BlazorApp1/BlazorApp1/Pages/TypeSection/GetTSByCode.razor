@@ -1,0 +1,77 @@
+﻿@page "/TSGetByCode"
+@using BlazorApp1.DTO;
+
+<h3>GetTypeSectionByCode</h3>
+<div class="row">
+    <div class="col text-center">
+        <h1>TypeSections</h1>
+    </div>
+</div>
+
+
+<form asp-page-handler="OnPost">
+    <label>Code</label><br>
+    <input type="text" name="code" @bind="_value"><br>
+    <br>
+    <button class="btn" type="button" @onclick="@onSend">Submit</button>
+</form>
+@if (typeSection != null)
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Код раздела</th>
+                <th>Name</th>
+                <th>Название</th>
+                <th>Гео объекты</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            
+            
+                <tr>
+                    <td>@typeSection.Code</td>
+                    <td>@typeSection.NameInEnglish</td>
+                    <td>@typeSection.NameInRussian</td
+                    <td>@objectCodes</td>
+
+                </tr>
+            
+        </tbody>
+    </table>
+}
+
+
+<br>
+@code {
+    string _value = "";
+    string objectCodes = "";
+
+    TypeSection typeSection = null;
+    TSDto tsDto = null;
+
+    HttpClient client = new();
+
+    protected async Task onSend()
+    {
+
+        try
+        {
+            typeSection = await client.GetFromJsonAsync<TypeSection>
+                        ($"https://localhost:8001/api/TypeSection/{_value}");
+
+
+            foreach (var item in typeSection.GeoObjectTypes)
+            {
+                objectCodes += item.Code + " ";
+            }
+            objectCodes.Trim();
+
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine("catch");
+        }
+    }
+}

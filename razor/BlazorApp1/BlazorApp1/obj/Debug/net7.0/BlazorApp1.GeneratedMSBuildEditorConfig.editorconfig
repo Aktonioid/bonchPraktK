@@ -20,32 +20,52 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/Delete.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlLnJhem9y
+[C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/GeoObject/Delete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VvT2JqZWN0XERlbGV0ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/Get.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2V0LnJhem9y
+[C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/GeoObject/Get.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VvT2JqZWN0XEdldC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/Get\{code\}.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2V0e2NvZGV9LnJhem9y
+[C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/GeoObject/Get\{code\}.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VvT2JqZWN0XEdldHtjb2RlfS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/Get\{sectioncode\}.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2V0e3NlY3Rpb25jb2RlfS5yYXpvcg==
+[C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/GeoObject/Get\{sectioncode\}.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VvT2JqZWN0XEdldHtzZWN0aW9uY29kZX0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/GeoObject/Post.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VvT2JqZWN0XFBvc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/GeoObject/Put.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VvT2JqZWN0XFB1dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/Post.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zdC5yYXpvcg==
+[C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/TypeSection/DeleteTS.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHlwZVNlY3Rpb25cRGVsZXRlVFMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/Put.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHV0LnJhem9y
+[C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/TypeSection/GetTS.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHlwZVNlY3Rpb25cR2V0VFMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/TypeSection/GetTSByCode.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHlwZVNlY3Rpb25cR2V0VFNCeUNvZGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/TypeSection/PostTS.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHlwZVNlY3Rpb25cUG9zdFRTLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Pages/TypeSection/UpdateTS.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHlwZVNlY3Rpb25cVXBkYXRlVFMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/1dang/Desktop/BlazorApp1/BlazorApp1/Shared/SurveyPrompt.razor]

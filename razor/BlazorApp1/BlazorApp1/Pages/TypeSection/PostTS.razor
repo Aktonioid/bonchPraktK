@@ -1,0 +1,35 @@
+﻿@page "/TSPost"
+
+<h3>PostTypeSection</h3>
+
+<form asp-page-handler="OnPost">
+    <label>Code</label><br>
+    <input type="text" name="code" @bind="_code"><br>
+
+    <label>Eng name</label><br>
+    <input type="text" name="nameEng" @bind="_nameEng"><br>
+
+    <label>Rus name</label><br>
+    <input type="text" name="nameRus" @bind="_nameRus"><br>
+
+    <button class="btn" type="submit" @onclick="@onPost">Send</button>
+</form>
+@code {
+    string _code = "";
+    string _nameEng = "";
+    string _nameRus = "";
+
+    HttpClient client = new();
+
+    public async Task onPost()
+    {
+        TypeSection ts = new()
+        {
+            Code = _code,
+            NameInEnglish = _nameEng,
+            NameInRussian = _nameRus
+        };
+
+        client.PostAsJsonAsync<TypeSection>("https://localhost:8001/api/TypeSection", ts);
+    }
+}

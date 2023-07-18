@@ -1,0 +1,86 @@
+﻿@page "/TSGet"
+
+@using System.Net.Http
+@using System.Net.Http.Json
+@using System.Threading.Tasks
+@using BlazorApp1.DTO;
+
+<PageTitle>TS Get</PageTitle>
+
+<div class="row">
+    <div class="col text-center">
+        <h1>TS Get</h1>
+    </div>
+</div>
+
+<button class="bth" type="button" onclick = "@OnParametersSetAsync()">Update</button>
+
+@if (typeSectionObj != null)
+{
+    <br>
+    <table>
+        <thead>
+            <tr>
+                <th>Код раздела</th>
+                <th>Name</th>
+                <th>Название</th>
+                <th>Гео объекты</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in typeSectionDto)
+            {
+                <tr>
+                    <td>@item.Code</td>
+                    <td>@item.NameInEnglish</td>
+                    <td>@item.NameInRussian</td
+                    <td>@item.geoObjectNames</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@code
+{
+    private List<TypeSection> typeSectionObj = null!;
+    private List<TSDto> typeSectionDto = new();
+    public string MessageAdd { get; set; } = String.Empty;
+
+    HttpClient Http = new();
+
+    protected override async Task OnParametersSetAsync()
+    {
+
+
+        typeSectionDto = new List<TypeSection>(await Http.GetFromJsonAsync<IEnumerable<TypeSection>>
+            ($"https://localhost:8001/api/TypeSection")).Select(ts => TSDtoMapper.ToDto(ts)).ToList();
+
+        //foreach (var item in  typeSectionObj)
+        //{
+        //    string add = "";
+        //    TSDto tsDto = new TSDto()
+        //        {
+        //            Code = item.Code,
+        //            NameInEnglish = item.NameInEnglish,
+        //            NameInRussian = item.NameInRussian
+        //        };
+
+        //    foreach (var geo in item.GeoObjectTypes)
+        //    {
+        //        add += geo.Code + " ";    
+        //    }
+
+        //    tsDto.geoObjectNames = add;
+        //    typeSectionDto.Add(tsDto);
+        //}
+        
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        typeSectionObj = new List<TypeSection>(await Http.GetFromJsonAsync<IEnumerable<TypeSection>>
+            ($"https://localhost:8001/api/TypeSection"));
+    }
+}

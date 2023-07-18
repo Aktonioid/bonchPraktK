@@ -1,50 +1,60 @@
-﻿<div class="top-row ps-3 navbar navbar-dark">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="">BlazorApp1</a>
-        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+﻿<div style="width:fit-content">
+    <div class="top-row ps-3 navbar navbar-dark">
+        <div class="container-fluid">
+            <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
     </div>
-</div>
 
-<div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
-    <nav class="flex-column">
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="oi oi-home" aria-hidden="true"></span> Home
-            </NavLink>
-        </div>
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="get">
-                <span class="oi oi-plus" aria-hidden="true"></span> Get
-            </NavLink>
-        </div>
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="post">
-                <span class="oi oi-list-rich" aria-hidden="true"></span> Post
-            </NavLink>
-        </div>
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="Get_code_">
-                <span class="oi oi-list-rich" aria-hidden="true"></span> Get{code}
-            </NavLink>
-        </div>
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="put">
-                <span class="oi oi-list-rich" aria-hidden="true"></span> Put
-            </NavLink>
-        </div>
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="delete">
-                <span class="oi oi-list-rich" aria-hidden="true"></span> Delete
-            </NavLink>
-        </div>
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="Get_sectioncode_">
-                <span class="oi oi-list-rich" aria-hidden="true"></span> Get{section code}
-            </NavLink>
-        </div>
-    </nav>
+    <div class="@NavMenuCssClass" @onclick="ToggleNavMenu_1">
+        <nav class="flex-column">
+            <details>
+                <summary><span class="oi oi-map"></span>GeoObject</summary>
+                <div class="nav-item px-3">
+                    <NavLink style="color:white;" class="nav-link" href="GeoObjectGetAll">
+                        <span class="oi oi-elevator" aria-hidden="true"></span> All
+                    </NavLink>
+                    <NavLink style="color:white;" class="nav-link" href="GeoObjectPost">
+                        <span class="oi oi-brush" aria-hidden="true"></span> Create
+                    </NavLink>
+                    <NavLink style="color:white;" class="nav-link" href="GeoObjectGetByCode">
+                        <span class="oi oi-code" aria-hidden="true"></span> By Code
+                    </NavLink>
+                    <NavLink style="color:white;" class="nav-link" href="GeoObjectUpdate">
+                        <span class="oi oi-cloud-upload" aria-hidden="true"></span> Update
+                    </NavLink>
+                    <NavLink style="color:white;" class="nav-link" href="GeoObjectDelete">
+                        <span class="oi oi-ban" aria-hidden="true"></span> Delete
+                    </NavLink>
+                    <NavLink style="color:white;" class="nav-link" href="GeoObjectBySectionCode">
+                        <span class="oi oi-list-rich" aria-hidden="true"></span> By Sect Code
+                    </NavLink>
+                </div>
+            </details>
+
+            <details>
+                <summary><span class="oi oi-box" ></span>TypeSection</summary>
+                <div class="nav-item px-3">
+                    <NavLink style="color:white;" class="nav-link" href="TSDelete">
+                        <span class="oi oi-ban" aria-hidden="true"></span>Delete
+                    </NavLink>
+                    <NavLink style="color:white;" class="nav-link" href="TSGet">
+                        <span class="oi oi-plus" aria-hidden="true"></span>Get
+                    </NavLink>
+                    <NavLink style="color:white;" class="nav-link" href="TSGetByCode">
+                        <span class="oi oi-code" aria-hidden="true"></span>Get by Code
+                    </NavLink>
+                    <NavLink style="color:white;" class="nav-link" href="TSPost">
+                        <span class="oi oi-signpost" aria-hidden="true"></span>Post
+                    </NavLink>
+                    <NavLink style="color:white;" class="nav-link" href="TSUpdate">
+                        <span class="oi oi-cloud-upload" aria-hidden="true"></span>Update
+                    </NavLink>
+                </div>
+            </details>
+        </nav>
+    </div>
 </div>
 
 @code {
@@ -55,5 +65,14 @@
     private void ToggleNavMenu()
     {
         collapseNavMenu = !collapseNavMenu;
+    }
+
+    private bool collapseNavMenu_1 = true;
+
+    private string? NavMenuCssClass_1 => collapseNavMenu_1 ? "collapse" : null;
+
+    private void ToggleNavMenu_1()
+    {
+        collapseNavMenu_1 = !collapseNavMenu_1;
     }
 }

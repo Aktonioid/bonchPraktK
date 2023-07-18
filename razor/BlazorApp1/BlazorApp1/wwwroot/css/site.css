@@ -70,6 +70,7 @@ a, .btn-link {
     .select-css:hover {
         border-color: #888;
     }
+    .select-css>option:focus
 
     .select-css:focus {
         border-color: #aaa;
@@ -81,6 +82,7 @@ a, .btn-link {
 
     .select-css option {
         font-weight: normal;
+        
     }
 
 *[dir="rtl"] .select-css, :root:lang(ar) .select-css, :root:lang(iw) .select-css {
@@ -94,7 +96,8 @@ table {
     width: 100%;
     min-width: 800px;
     border-collapse: collapse;
-    border: 3px solid #1861ac;
+    border: 3px solid #0E2262;
+
 }
 
 thead th:nth-child(1) {
@@ -123,11 +126,11 @@ th, td {
 }
 
 tbody tr:nth-child(odd) {
-    background-color: #E4F5FF;
+    background-color: #C5D4FF;
 }
 
 tbody tr:nth-child(even) {
-    background-color: #E8E8E8;
+    background-color: #C6ACCC;
 }
 
 
@@ -158,4 +161,61 @@ tbody tr:nth-child(even) {
 
     .blazor-error-boundary::after {
         content: "An error has occurred."
+    }
+
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #3A0647;
+    border-radius: 10px;
+    outline: none;
+}
+
+    input[type=text]:focus {
+        background-color: #C5D4FF;
+    }
+
+.btn {
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 0 20px;
+    margin: 0 15px 15px 0;
+    outline: none;
+    border: none;
+    border-radius: 6px;
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #fff;
+    background-color: #0C2263;
+    box-shadow: 0 2px #C5D4FF;
+    cursor: pointer;
+    user-select: none;
+    appearance: none;
+    touch-action: manipulation;
+    vertical-align: top;
+}
+
+    .btn:hover {
+        background-color: #5F0576;
+        color: aliceblue;
+    }
+
+    .btn:active {
+        background-color: #C5D4FF !important;
+        color: black;
+    }
+
+    .btn:focus-visible {
+        box-shadow: 0 0 0 3px lightskyblue;
+    }
+
+    .btn:disabled {
+        background-color: #5F0576;
+        pointer-events: none;
     }
