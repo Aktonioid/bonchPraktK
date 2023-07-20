@@ -4,27 +4,27 @@
 @using System.Net.Http.Json
 @using System.Threading.Tasks
 
-<h3>Post</h3>
+<h1>Создание</h1>
 <form asp-page-handler="OnPost">
-    <label>Code</label><br>
+    <label>Код объекта</label><br>
     <input type="text" name="code" @bind="_code"><br>
 
     <label>Eng name</label><br>
     <input type="text" name="nameEng" @bind = "_nameEng"><br>
 
-    <label>Rus name</label><br>
+    <label>Имя объекта</label><br>
     <input type="text" name="nameRus" @bind = "_nameRus"><br>
 
     <label>Descript in eng</label><br>
     <input type="text" name="discriptionEng" @bind = "_discriptionEng"><br>
 
-    <label>Descript in rus</label><br>
+    <label>Описание объекта</label><br>
     <input type="text" name="discriptionRus" @bind = "_discriptionRus"><br>
 
-    <label>Type section code</label><br>
+    <label>Код раздела</label><br>
     <input type="text" name="typeSectionCode" @bind = "_typeSectionCode"><br>
     <br>
-    <button class="btn" type="submit" onclick="@OnPost">Send</button>
+    <button class="btn" type="submit" onclick="@OnPost">Создать</button>
 </form>
 
 
@@ -36,11 +36,7 @@
     string _discriptionEng = "";
     string _discriptionRus = "";
     string _typeSectionCode = "";
-
     HttpClient client = new();
-
-    
-
     public async Task OnPost()
     {
 
@@ -54,12 +50,6 @@
             DescriptionInRussian = _discriptionRus,
             TypeSectionCode = _typeSectionCode
         };
-
         client.PostAsJsonAsync<GeoObjectType>("https://localhost:8001/api/GeoObjectType", geoObject);
-        
     }
-
-    
-
-    
 }

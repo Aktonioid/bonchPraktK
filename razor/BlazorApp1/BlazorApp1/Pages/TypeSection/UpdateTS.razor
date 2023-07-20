@@ -1,23 +1,21 @@
 ﻿@page "/TSUpdate"
 
-<h3>UpdateTypeSection</h3>
-
 @using System.Net.Http
 @using System.Net.Http.Json
 @using System.Threading.Tasks
-<h3>Put</h3>
+<h3>Редактирование</h3>
 
 <form asp-page-handler="OnPost">
-    <label>Code</label><br>
+    <label>Код</label><br>
     <input type="text" name="code" @bind="_code"><br>
 
-    <label>Eng name</label><br>
+    <label>Name</label><br>
     <input type="text" name="nameEng" @bind="_nameEng"><br>
 
-    <label>Rus name</label><br>
+    <label>Название</label><br>
     <input type="text" name="nameRus" @bind="_nameRus"><br>
 
-    <button class="btn" type="submit" onclick="@OnPut">Send</button>
+    <button class="btn" type="submit" onclick="@OnPut">Ok</button>
 </form>
 
 @if (geoObjectTypeDtos != null)
@@ -34,7 +32,6 @@
             @foreach (var geoObjectType in geoObjectTypeDtos)
             {
 
-                string jopa = "";
                 if (geoObjectType.Code != _value && _value != "0") continue;
                 <tr>
                     @if (_value == "0")
@@ -44,7 +41,7 @@
                     <td>@geoObjectType.Code</td>
                     <td>@geoObjectType.NameInEnglish</td>
                     <td>@geoObjectType.NameInRussian</td>
-                    <td><form><button type="submit" @onclick="(() => shit(geoObjectType))">update</button></form></td>
+                    <td><form><button  class="btn" type="submit" @onclick="(() => GeoUp(geoObjectType))">Update</button></form></td>
                 </tr>
             }
         </tbody>
@@ -96,7 +93,7 @@
         client.PutAsJsonAsync<TypeSection>($"https://localhost:8001/api/TypeSection/{typeSection.Code}", typeSection);
     }
 
-    protected void shit(TypeSection got)
+    protected void GeoUp(TypeSection got)
     {
         GeoUpdate.tsUpdateCode = got.Code;
     }

@@ -4,28 +4,28 @@
 @using System.Net.Http
 @using System.Net.Http.Json
 @using System.Threading.Tasks
-<h3>Put</h3>
+<h3>Редактирование</h3>
 
 <form asp-page-handler="OnPost">
-    <label>Code</label><br>
+    <label>Код объекта</label><br>
     <input type="text" name="code" @bind="_code"><br>
 
-    <label>Eng name</label><br>
+    <label>Name</label><br>
     <input type="text" name="nameEng" @bind="_nameEng"><br>
 
-    <label>Rus name</label><br>
+    <label>Название объекта</label><br>
     <input type="text" name="nameRus" @bind="_nameRus"><br>
 
-    <label>Descript in eng</label><br>
+    <label>Description</label><br>
     <input type="text" name="discriptionEng" @bind="_discriptionEng"><br>
 
-    <label>Descript in rus</label><br>
+    <label>Описание</label><br>
     <input type="text" name="discriptionRus" @bind="_discriptionRus"><br>
 
-    <label>Type section code</label><br>
+    <label>Код раздела</label><br>
     <input type="text" name="typeSectionCode" @bind="_typeSectionCode"><br>
     <br>
-    <button class="btn" type="submit" onclick="@OnPost">Send</button>
+    <button class="btn" type="submit" onclick="@OnPost">Ok</button>
 </form>
 
 
@@ -54,14 +54,12 @@
                 <th>Код объекта</th>
                 <th>Name</th>
                 <th>Название</th>
-                <th>Type</th>
-                <th>Тип</th>
+                <th>Descriprion</th>
+                <th>Описание</th>
             </tr>
         </thead>
         <tbody>
             @foreach( var geoObjectType in geoObjectTypeDtos){                
-                
-                string jopa ="";
                 if (geoObjectType.TypeSectionCode != _value && _value != "0") continue;
                 <tr>
                     @if (_value == "0")
@@ -74,7 +72,7 @@
                     <td>@geoObjectType.NameInRussian</td>
                     <td>@geoObjectType.DescriptionInEnglish</td>
                     <td>@geoObjectType.DescriptionInRussian</td>
-                    <td><form><button type="submit" @onclick="(() => shit(geoObjectType))">update</button></form></td>
+                    <td><form><button class="btn" type="submit" @onclick="(() => GeoUp(geoObjectType))">Ok</button></form></td>
                 </tr>
             }
         </tbody>
@@ -118,7 +116,6 @@
                 }
             }
         }
-        //Console.WriteLine("hui");
 
     }
 
@@ -140,11 +137,8 @@
 
     }
 
-    protected void shit (GeoObjectType got)
+    protected void GeoUp (GeoObjectType got)
     {
-        Console.WriteLine(got.Code);
-
         GeoUpdate.geoUpdateCode = got.Code;
-
     }
 }

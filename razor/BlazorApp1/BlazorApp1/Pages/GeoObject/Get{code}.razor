@@ -1,37 +1,33 @@
 ﻿@page "/GeoObjectGetByCode"
-<PageTitle>Get</PageTitle>
-
-<h3>Get_code_</h3>
 
 @using System.Net.Http
 @using System.Net.Http.Json
 @using System.Threading.Tasks
 
-<PageTitle>Get (code)</PageTitle>
+<PageTitle>Запрос объекта</PageTitle>
 
 <div class="row">
     <div class="col text-center">
-        <h1>GeoNames</h1>
+        <h1>Запрос объекта</h1>
     </div>
 </div>
 
 
     <form asp-page-handler="OnPost">
-        <label>Code</label><br>
+        <label>Код объекта</label><br>
         <input type="text" name="code" @bind="_value"><br>
         <br>
-        <button class="btn" type="button" onclick="@OnGet">Submit</button>
+        <button class="btn" type="button" onclick="@OnGet">Ok</button>
     </form>
     <br >
     <table>
         <thead>
             <tr>
                 <th>Код раздела</th>
-                @*<th>Код объекта</th>*@
                 <th>Name</th>
                 <th>Название</th>
-                <th>Type</th>
-                <th>Тип</th>
+                <th>Description</th>
+                <th>Описание</th>
             </tr>
         </thead>
     @if (geoObjectTypeDtos != null)
@@ -39,7 +35,6 @@
         <tbody>
                 <tr>
                     <td>@geoObjectTypeDtos.TypeSectionCode</td>
-                    @*<td>@geoObjectTypeDtos.Code</td>*@
                     <td>@geoObjectTypeDtos.NameInEnglish</td>
                     <td>@geoObjectTypeDtos.NameInRussian</td>
                     <td>@geoObjectTypeDtos.DescriptionInEnglish</td>

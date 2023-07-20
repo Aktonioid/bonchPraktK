@@ -5,15 +5,15 @@
 @using System.Threading.Tasks
 @using BlazorApp1.DTO;
 
-<PageTitle>TS Get</PageTitle>
+<PageTitle>Все объекты</PageTitle>
 
 <div class="row">
     <div class="col text-center">
-        <h1>TS Get</h1>
+        <h1>Все объекты</h1>
     </div>
 </div>
 
-<button class="bth" type="button" onclick = "@OnParametersSetAsync()">Update</button>
+<button class="btn" type="button" onclick = "@OnParametersSetAsync()">Update</button>
 
 @if (typeSectionObj != null)
 {
@@ -34,9 +34,8 @@
                 <tr>
                     <td>@item.Code</td>
                     <td>@item.NameInEnglish</td>
-                    <td>@item.NameInRussian</td
+                    <td>@item.NameInRussian</td>
                     <td>@item.geoObjectNames</td>
-
                 </tr>
             }
         </tbody>
@@ -52,30 +51,8 @@
 
     protected override async Task OnParametersSetAsync()
     {
-
-
         typeSectionDto = new List<TypeSection>(await Http.GetFromJsonAsync<IEnumerable<TypeSection>>
             ($"https://localhost:8001/api/TypeSection")).Select(ts => TSDtoMapper.ToDto(ts)).ToList();
-
-        //foreach (var item in  typeSectionObj)
-        //{
-        //    string add = "";
-        //    TSDto tsDto = new TSDto()
-        //        {
-        //            Code = item.Code,
-        //            NameInEnglish = item.NameInEnglish,
-        //            NameInRussian = item.NameInRussian
-        //        };
-
-        //    foreach (var geo in item.GeoObjectTypes)
-        //    {
-        //        add += geo.Code + " ";    
-        //    }
-
-        //    tsDto.geoObjectNames = add;
-        //    typeSectionDto.Add(tsDto);
-        //}
-        
     }
 
     protected override async Task OnInitializedAsync()

@@ -1,18 +1,18 @@
 ﻿@page "/TSPost"
 
-<h3>PostTypeSection</h3>
+<h3>Создание</h3>
 
 <form asp-page-handler="OnPost">
-    <label>Code</label><br>
+    <label>Код</label><br>
     <input type="text" name="code" @bind="_code"><br>
 
-    <label>Eng name</label><br>
+    <label>Name</label><br>
     <input type="text" name="nameEng" @bind="_nameEng"><br>
 
-    <label>Rus name</label><br>
+    <label>Название</label><br>
     <input type="text" name="nameRus" @bind="_nameRus"><br>
 
-    <button class="btn" type="submit" @onclick="@onPost">Send</button>
+    <button class="btn" type="submit" @onclick="@onPost">Ok</button>
 </form>
 @code {
     string _code = "";

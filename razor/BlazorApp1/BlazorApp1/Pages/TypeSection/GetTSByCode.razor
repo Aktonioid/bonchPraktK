@@ -1,19 +1,18 @@
 ﻿@page "/TSGetByCode"
 @using BlazorApp1.DTO;
 
-<h3>GetTypeSectionByCode</h3>
 <div class="row">
     <div class="col text-center">
-        <h1>TypeSections</h1>
+        <h1>Объекты по коду</h1>
     </div>
 </div>
 
 
 <form asp-page-handler="OnPost">
-    <label>Code</label><br>
+    <label>Код объекта</label><br>
     <input type="text" name="code" @bind="_value"><br>
     <br>
-    <button class="btn" type="button" @onclick="@onSend">Submit</button>
+    <button class="btn" type="button" @onclick="@onSend">Ok</button>
 </form>
 @if (typeSection != null)
 {
@@ -33,7 +32,7 @@
                 <tr>
                     <td>@typeSection.Code</td>
                     <td>@typeSection.NameInEnglish</td>
-                    <td>@typeSection.NameInRussian</td
+                    <td>@typeSection.NameInRussian</td>
                     <td>@objectCodes</td>
 
                 </tr>

@@ -4,11 +4,11 @@
 @using System.Net.Http.Json
 @using System.Threading.Tasks
 
-<PageTitle>Get_sectioncode_</PageTitle>
+<PageTitle>Сортировка данных</PageTitle>
 
 <div class="row">
     <div class="col text-center">
-        <h3>Get_sectioncode_</h3>
+        <h3>Сортировка данных</h3>
     </div>
 </div>
 
@@ -22,7 +22,8 @@
         <option value="R">R - Автомобильная дорога, железная дорога </option>
         <option value="S">S - Местоположение, здание, ферма </option>
         <option value="T">T - Гора, холм, скала </option>
-        <option value="U">U - Лес, степь </option>
+        <option value="U">U - Подводный рельеф</option>
+        <option value="V">V - Лес, степь </option>
         <option value="0">Все типы </option>
     </select>
     <br>
@@ -37,8 +38,8 @@
                 <th>Код объекта</th>
                 <th>Name</th>
                 <th>Название</th>
-                <th>Type</th>
-                <th>Тип</th>
+                <th>Description</th>
+                <th>Описание</th>
             </tr>
         </thead>
         <tbody>
@@ -67,39 +68,22 @@
 
     public string MessageAdd { get; set; } = String.Empty;
     HttpClient Http = new();
-    //private IEnumerable<GeoObjectTypeDto> geoObjectTypeDtos = null!;
     private bool fulfil = false;
+
     protected override async Task OnParametersSetAsync()
     {
-        //Console.WriteLine(_value);
         geoObjectTypeDtos = new List<GeoObjectType>(await Http.GetFromJsonAsync<IEnumerable<GeoObjectType>>
             ($"https://localhost:8001/api/GeoObjectType"));
-
-        //foreach (var i in geoObjectTypeDtos)
-        //{
-        //    Console.WriteLine(i.TypeSectionCode);
-        //}
         fulfil = true;
     }
 
     protected override async Task OnInitializedAsync()
     {
-
         geoObjectTypeDtos = new List<GeoObjectType>(await Http.GetFromJsonAsync<IEnumerable<GeoObjectType>>
             ($"https://localhost:8001/api/GeoObjectType"));
-        //Console.WriteLine("hui");
 
         fulfil = true;
     }
 
-    protected bool shit(string codeUpd) 
-    {
-        GeoUpdate.geoUpdateCode = codeUpd;
-        return true;
-    }
-    public async Task Update(string code)
-    {
-
-        Console.WriteLine(code);
-    }
+    
 }
